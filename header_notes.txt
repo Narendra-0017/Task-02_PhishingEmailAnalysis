@@ -1,6 +1,7 @@
-Header Indicators (Conceptual):
+Header Indicators :
 - SPF: FAIL
 - DKIM: FAIL
 - DMARC: FAIL
 - Reply-To domain mismatch
 - Source IP does not belong to PayPal infrastructure
+
