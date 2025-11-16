@@ -4,4 +4,3 @@ Header Indicators :
 - DMARC: FAIL
 - Reply-To domain mismatch
 - Source IP does not belong to PayPal infrastructure
-
